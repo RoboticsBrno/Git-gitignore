@@ -1,2 +1,2 @@
-# Eagle-gitignore
-Repo with just Eagle .gitignore
+# Git-gitignore
+Repository with .gitignore files for different projects: Eagle, KiCad, SolidWorks, LaTeX, ...
